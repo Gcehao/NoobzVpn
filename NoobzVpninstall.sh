@@ -12,8 +12,6 @@ systemctl start noobzvpns.service
 
 systemctl enable noobzvpns.service
 
-systemctl status noobzvpns.service -l
-
 clear
 
 noobzvpns --add-user test iman0011
